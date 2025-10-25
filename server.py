@@ -1,9 +1,11 @@
 import json
 from flask import Flask, request, jsonify, render_template
+from flask_cors import CORS
 import os
 import random
 
 app = Flask(__name__)
+CORS(app)  # allow frontend (Netlify) to reach this server
 
 # Load chat history
 if os.path.exists("chats.json"):
