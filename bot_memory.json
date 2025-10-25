@@ -1,0 +1,26 @@
+{
+    "hi": [
+        "hello"
+    ],
+    "hello": [
+        "hi"
+    ],
+    "hello!": [
+        "wsg!"
+    ],
+    "wsg!": [
+        "hello!"
+    ],
+    "67": [
+        "6-7! *does the 6-7 had gesture"
+    ],
+    "6-7! *does the 6-7 had gesture": [
+        "67"
+    ],
+    "wsg": [
+        "wsg bro!"
+    ],
+    "wsg bro!": [
+        "wsg"
+    ]
+}
